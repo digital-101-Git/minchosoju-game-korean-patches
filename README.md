@@ -4,6 +4,9 @@
 
 | 번호 | 제목 | URL |
 | --- | --- | --- |
+| 65 | &#91;한글패치&#93;《연애할래? 우리 집 고양이는 공중제비도해》《恋爱吗？我家猫会后空翻》《Want to date? My cat can do backflips》 | [https://blog.naver.com/minchosoju/224450544367](https://blog.naver.com/minchosoju/224450544367) |
+| 64 | &#91;한글패치&#93;《연애는 단 하나의 선택 문제》《恋爱单选题》《Only You》 | [https://blog.naver.com/minchosoju/224450533132](https://blog.naver.com/minchosoju/224450533132) |
+| 63 | &#91;한글패치&#93;《여신이 나를 노리고 있어!》《我被女神盯上了!》《Beauty’s Target》 | [https://blog.naver.com/minchosoju/224450500366](https://blog.naver.com/minchosoju/224450500366) |
 | 62 | &#91;한글패치&#93;《안 돼! 스승님이 여요정에게 납치됐어!》《不好啦！师父被女妖精抓走了！》《SIFU Kidnapped! Adventure in the Women's Kingdom》 | [https://blog.naver.com/minchosoju/224450384111](https://blog.naver.com/minchosoju/224450384111) |
 | 61 | &#91;한글패치&#93;《법의학 수사단 수다쟁이 샤오스》《法医探案团之碎嘴小诗》 | [https://blog.naver.com/minchosoju/224449325754](https://blog.naver.com/minchosoju/224449325754) |
 | 60 | &#91;한글패치&#93;《미안해! 내가 미녀들을 포위했어!》《对不起！我把美女包围了！》《Sorry! I surrounded beauty!》 | [https://blog.naver.com/minchosoju/224449323902](https://blog.naver.com/minchosoju/224449323902) |
