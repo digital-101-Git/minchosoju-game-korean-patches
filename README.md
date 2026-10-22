@@ -4,6 +4,7 @@
 
 | 번호 | 제목 | URL |
 | --- | --- | --- |
+| 62 | &#91;한글패치&#93;《안 돼! 스승님이 여요정에게 납치됐어!》《不好啦！师父被女妖精抓走了！》《SIFU Kidnapped! Adventure in the Women's Kingdom》 | [https://blog.naver.com/minchosoju/224450384111](https://blog.naver.com/minchosoju/224450384111) |
 | 61 | &#91;한글패치&#93;《법의학 수사단 수다쟁이 샤오스》《法医探案团之碎嘴小诗》 | [https://blog.naver.com/minchosoju/224449325754](https://blog.naver.com/minchosoju/224449325754) |
 | 60 | &#91;한글패치&#93;《미안해! 내가 미녀들을 포위했어!》《对不起！我把美女包围了！》《Sorry! I surrounded beauty!》 | [https://blog.naver.com/minchosoju/224449323902](https://blog.naver.com/minchosoju/224449323902) |
 | 59 | &#91;한글패치&#93;《나는 수십억의 게임 자산을 얻었다》《失业了，我获得了亿万游戏财产！》《Unemployed, I have obtained billions of game assets》 | [https://blog.naver.com/minchosoju/224448333053](https://blog.naver.com/minchosoju/224448333053) |
