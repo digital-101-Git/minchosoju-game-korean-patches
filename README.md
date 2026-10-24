@@ -4,6 +4,7 @@
 
 | 번호 | 제목 | URL |
 | --- | --- | --- |
+| 68 | &#91;한글패치&#93;《예쁜 그녀들에겐 못 이겨요》《我打不过漂亮的她们》《Beauty and Boxing》 | [https://blog.naver.com/minchosoju/224452215369](https://blog.naver.com/minchosoju/224452215369) |
 | 67 | &#91;한글패치&#93;《안녕! 우리 아직 못한 연애가 있잖아-외전》《你好！我们还有场恋爱没谈-番外篇》《Hello Love: Temptation》 | [https://blog.naver.com/minchosoju/224451758986](https://blog.naver.com/minchosoju/224451758986) |
 | 66 | &#91;한글패치&#93;《안녕! 우리 아직 못한 연애가 있잖아》《你好！我们还有场恋爱没谈》《Hello Love: 18 Again》 | [https://blog.naver.com/minchosoju/224451757244](https://blog.naver.com/minchosoju/224451757244) |
 | 65 | &#91;한글패치&#93;《연애할래? 우리 집 고양이는 공중제비도해》《恋爱吗？我家猫会后空翻》《Want to date? My cat can do backflips》 | [https://blog.naver.com/minchosoju/224450544367](https://blog.naver.com/minchosoju/224450544367) |
